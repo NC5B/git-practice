@@ -9,9 +9,10 @@ git practice session
 2. Numbered List 2
 3. Numbered List 3
 
-*_italics_
-***Bold**
-*~~strikethrough~~
+_italics_
+**Bold**
+~~strikethrough~~
+*'Code Block'
 
 
 
