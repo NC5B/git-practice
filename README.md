@@ -12,7 +12,7 @@ git practice session
 _italics_
 **Bold**
 ~~strikethrough~~
-'Code Block'
+```Code Block```
 
 
 
