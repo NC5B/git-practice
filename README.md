@@ -1,8 +1,6 @@
 # git-practice
 git practice session
-~~scratch this~~
-**bold**
-_italics_
+
 *Bullet List 1
 *Bullet List 2
 +Bullet List 3
